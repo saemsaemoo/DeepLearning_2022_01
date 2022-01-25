@@ -9,6 +9,9 @@ model/
 OpinosisDataset1.0/
 .DS_Store
 dataset/
+kaggle.json
+etriaikey.txt
+ko.zip
 
 
 # Byte-compiled / optimized / DLL files
